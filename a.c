@@ -1,8 +1,6 @@
 #include <stdio.h>
 
 int main() {
-	printf("hello AAA\n");
-	printf("AAAAAAA\n");
-	printf("BBBBBB\n");
+	printf("깃에서옴\n");
 	return 0;
 }
